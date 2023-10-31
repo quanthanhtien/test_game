@@ -1,0 +1,39 @@
+{
+  "buildFiles": [
+    "D:\\codeGame\\test_game\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\codeGame\\test_game\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\FramePacing\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\laptrinh\\Lap_Trinh_Game\\2023.1.18f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\codeGame\\test_game\\.utmp\\RelWithDebInfo\\1le3r436\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\laptrinh\\Lap_Trinh_Game\\2023.1.18f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\codeGame\\test_game\\.utmp\\RelWithDebInfo\\1le3r436\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "swappywrapper::@7e25bd1f32ce224db4e9": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "swappywrapper",
+      "output": "D:\\codeGame\\test_game\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\RelWithDebInfo\\1le3r436\\obj\\arm64-v8a\\libswappywrapper.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "D:\\laptrinh\\Lap_Trinh_Game\\2023.1.18f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "D:\\laptrinh\\Lap_Trinh_Game\\2023.1.18f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
